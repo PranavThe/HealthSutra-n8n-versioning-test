@@ -14,13 +14,6 @@
         "parameters": {},
         "typeVersion": 1
       },
-      {
-        "id": "93eaee43-7a39-4c83-aeaa-9ca14d0f4b",
-        "name": "Note",
-        "type": "n8n-nodes-base.stickyNote",
-        "position": [
-          380,
-          240
         ],
         "parameters": {
           "width": 440,
