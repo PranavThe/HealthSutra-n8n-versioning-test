@@ -5,7 +5,7 @@
   "nodes": [
     {
       "id": "939bb301-5e12-4d5b-9a56-61a61cca5f0d",
-      "name": "OpenAI Chat Model",
+      "name": "Google Gemini Chat Model",
       "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
       "position": [
         640,
