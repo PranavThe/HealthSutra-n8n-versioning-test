@@ -33,7 +33,7 @@
         "parameters": {
           "width": 986.3743856726365,
           "height": 460.847917534361,
-          "content": "## 3. Handle Pagination\n### Sometimes you need to make the same request multiple times to get all the data you need (pagination).\n\n### The pagination process goes as follow:\n### 1. Loop through the pages of the input source (`HTTP Request` node named \"Get my Starts\")\n### 2. Increment the page at the end of each loop (done with the `set` node named \"Increment Page\") \n### 3. Stop looping when there are no pages left (checked at the `If` node named \"Are we Finished?\")\n\n\n\n"
+          "content": "## 3. Handle Pagination\n###  need to make the same request multiple times to get all the data you need (pagination).\n\n### The pagination process goes as follow:\n### 1. Loop through the pages of the input source (`HTTP Request` node named \"Get my Starts\")\n### 2. Increment the page at the end of each loop (done with the `set` node named \"Increment Page\") \n### 3. Stop looping when there are no pages left (checked at the `If` node named \"Are we Finished?\")\n\n\n\n"
         },
         "typeVersion": 1
       },
